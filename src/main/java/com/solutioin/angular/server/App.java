@@ -4,6 +4,8 @@ package com.solutioin.angular.server;
  * Hello world!
  *
  */
+
+//modificado
 public class App {
 	private String teste;
 
