@@ -9,7 +9,7 @@ package com.solutioin.angular.server;
 public class App {
 	private String teste;
 
-	public String getTeste() {
+	public String getTeste1() {
 		return teste;
 	}
 
